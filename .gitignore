@@ -1,0 +1,53 @@
+# Environment Variables - NEVER push these!
+.env
+.env.local
+.env.*.local
+*.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Reports (optional - remove this if you want to track reports)
+# reports/
+
+# API keys / secrets
+secrets.json
+config.json
+credentials.json

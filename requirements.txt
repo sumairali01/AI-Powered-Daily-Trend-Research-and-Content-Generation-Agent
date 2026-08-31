@@ -1,0 +1,16 @@
+# Core LangChain packages
+langchain
+langchain-openai
+langchain-core
+
+# Web Search
+tavily-python
+
+# Environment variables
+python-dotenv
+
+# Streamlit UI
+streamlit
+
+# Scheduler
+apscheduler
